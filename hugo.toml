@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Volodymyr Vasylyna'
 theme = 'simplica'
+paginate = '9999'
 
 [params]
 description = "A personal blog about development, books, work, digital minimalism, and more."
