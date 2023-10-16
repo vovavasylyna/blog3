@@ -1,3 +1,6 @@
 [submodule "themes/simplica"]
 	path = themes/simplica
 	url = https://github.com/ronv/Simplica.git
+[submodule "themes/Simplica"]
+	path = themes/Simplica
+	url = git@github.com:ronv/Simplica.git
