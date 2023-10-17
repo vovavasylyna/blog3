@@ -3,7 +3,8 @@ title: "RSS, and How To Subscribe To My Blog"
 date: 2023-09-29T09:47:44+03:00
 description: "A short guide on RSS: what is it, why and how to use it"
 ---
-*If you're looking for a direct RSS feed of my blog, here it is https://vovavasylyna.com/atom.xml*
+*If you're looking for a direct RSS feed of my blog, here it is 
+https://vovavasylyna.com/atom.xml*
 
 ### Intro
 
@@ -27,7 +28,9 @@ Here are all the read posts from all the blogs I follow. I don’t have to go to
 
 Create an account, for example, on [Feedly](https://feedly.com/). In the menu on the left there is a Follow Websites button. Enter the address of a blog there. Use mine, for instance. That's it, now you are subscribed, new posts will arrive there. Subscribe to all your favorite blogs, and now you can read everything in one place. I myself have up to [20 sources in my reader](/blogroll).
 
-There are RSS readers which cannot pick up RSS simply from the site. They need to be given a direct path to the RSS stream. I have this one: https://vovavasylyna.com/atom.xml 
+There are RSS readers which cannot pick up RSS simply from the site. They need to be given a direct path to the RSS stream. I have this one: 
+
+https://vovavasylyna.com/atom.xml 
 
 ###  Why do I need RSS if we all have social media?
 Surely, this is a matter of a personal preference. As for me I don’t understand how we can even compare one with the other in terms of convenience.
