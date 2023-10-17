@@ -2,7 +2,7 @@
 title: Blogroll
 ---
 
-This page lists some of the personal and independent blogs I currently have on my RSS reader.
+This page lists some of the personal and independent blogs I like and currently have on my RSS reader.
 
 - Herman Martinus [https://herman.bearblog.dev](https://herman.bearblog.dev/) 
 - Manuel Moreale [https://manuelmoreale.com](https://manuelmoreale.com)
