@@ -20,3 +20,5 @@ baseName = "atom"
 [frontmatter]
 author = "Volodymyr Vasylyna"
 
+[markup.goldmark.renderer]
+hardWraps = true
