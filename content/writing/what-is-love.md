@@ -1,5 +1,5 @@
 ---
-title: "What is Love"
+title: "What is love"
 date: 2022-12-12T09:47:44+03:00
 tags: ["Personal Development"]
 ---

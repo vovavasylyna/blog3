@@ -1,7 +1,8 @@
 ---
-title: "Let's Go Back to Personal Blogging"
+title: "Let's go back to personal blogging"
 date: 2023-08-23T09:47:44+03:00
 description: "My manifesto around personal independent blogging."
+draft: 'true'
 
 ---
 Once upon a time, there were blogs - they were like the original social media. People built communities and fostered connections. They shared personal stuff a lot. They did this often. They looked out for any trouble and helped each other by sharing links to interesting blogs with newcomers.

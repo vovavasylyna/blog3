@@ -1,5 +1,5 @@
 ---
-title: "Why Context Switch is Bad"
+title: "Why context switch is bad"
 date: 2022-04-06T09:47:44+03:00
 description: "What are the consequences of distracted and interrupted work"
 ---

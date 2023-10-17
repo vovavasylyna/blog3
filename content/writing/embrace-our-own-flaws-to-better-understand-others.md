@@ -1,5 +1,5 @@
 ---
-title: "Embrace Our Own Flaws to Better Understand Others"
+title: "Embrace our own flaws to better understand others"
 date: 2022-06-27T09:47:44+03:00
 description: "Thoughts on a connection between how we accept others and an attitude to our own flaws"
 ---

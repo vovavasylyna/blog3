@@ -1,5 +1,5 @@
 ---
-title: "Why Digital Minimalism"
+title: "Why digital minimalism"
 date: 2021-09-03T09:47:44+03:00
 description: "My reasoning and understanding for why I stick to the Digital Minimalism concept."
 ---

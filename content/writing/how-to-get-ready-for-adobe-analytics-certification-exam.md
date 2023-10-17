@@ -1,5 +1,5 @@
 ---
-title: "How to Get Ready For Adobe Analytics Certification Exam"
+title: "How to get ready for Adobe Analytics certification exam"
 date: 2023-06-30T09:47:44+03:00
 description: "How to prepare, how does the exam go, and my overall impression after completing the Adobe Analytics Certification"
 ---

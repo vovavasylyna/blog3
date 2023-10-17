@@ -1,5 +1,5 @@
 ---
-title: "The Problem of Understanding The Task By Colleagues and Contractors"
+title: "The problem of understanding the task"
 date: 2023-10-03T09:47:44+03:00
 ---
 When you write any sort of an instruction, a technical specificaiton or a brief to your colleagues or contractors, you yourself are responsible to ensure that they understand the task. The problem here is you won’t be able to convey the task to these people, even with a super detailed specification, because they won’t read it carefully, even if it is very well written. And if it is short, some important details will be missing, so nothing will be clear.

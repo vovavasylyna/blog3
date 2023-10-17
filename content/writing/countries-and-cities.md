@@ -1,5 +1,5 @@
 ---
-title: "My Travels"
+title: "My travels"
 date: 2021-07-07T09:47:44+03:00
 description: "A list of countries and cities I visited in my life"
 ---

@@ -1,6 +1,7 @@
 ---
-title: "Why To Write"
+title: "Why to write"
 date: 2021-09-09T09:47:44+03:00
+draft: 'true'
 ---
 A quote from [The Comfort Book](https://www.goodreads.com/book/show/55825273-the-comfort-book) by Matt Haig clearly articulating yet another reason of why I am pushing myself to write more:
 

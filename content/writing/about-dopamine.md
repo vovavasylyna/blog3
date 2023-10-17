@@ -1,5 +1,5 @@
 ---
-title: "About Dopamine"
+title: "About dopamine"
 date: 2021-09-29T09:47:44+03:00
 description: "Why to stick to some rules aimed at stopping from impulsive generation of dopamine"
 ---

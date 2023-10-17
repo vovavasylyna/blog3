@@ -1,5 +1,5 @@
 ---
-title: "5 ways in which social media and tech are harming our attention ★"
+title: "5 ways in which social media and tech are harming our attention"
 date: 2022-04-14T09:47:44+03:00
 ---
 1. Social media and tech are designed to train our minds to crave frequent rewards. They make us hunger for likes. This craving will drive you to pick up your phone more and more. You’ll break away from your work and your relationships to seek a sweet, sweet hit of retweets.

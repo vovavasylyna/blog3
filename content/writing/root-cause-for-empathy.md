@@ -1,5 +1,5 @@
 ---
-title: "Root Cause for Empathy"
+title: "Root cause for empathy"
 date: 2021-11-07T09:47:44+03:00
 ---
 I got an interesting idea during one of the conversations the other day.

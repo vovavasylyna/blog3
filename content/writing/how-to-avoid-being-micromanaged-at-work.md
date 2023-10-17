@@ -1,5 +1,5 @@
 ---
-title: "How to Avoid Being Micromanaged at Work"
+title: "How to avoid being micromanaged at work"
 date: 2023-09-02T09:47:44+03:00
 description: "Simple step-by-step guide to avoid difficult situations"
 ---

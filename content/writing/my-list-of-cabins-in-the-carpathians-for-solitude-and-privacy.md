@@ -10,12 +10,9 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 1 – Didova Khatchyna
 
-| Cabin | [Didova Khatchyna](https://www.instagram.com/didova_khatchyna/) |
-| -------- | -------- |
-| Location | Yavoriv ([Google Maps](https://goo.gl/maps/XDYcV36JrR4UzjyZ6)) |
-| Price | 4400-8000 UAH |
+[Intsagram](https://www.instagram.com/didova_khatchyna/) – [Google Maps](https://goo.gl/maps/XDYcV36JrR4UzjyZ6)
 
-Були тут минулого року, рекомендую відвідати. Класне місце!
+Visited in 2022. Great place!
 
 ![Didova Khatchyna](/images/cabins/didova-khatchyna-1.jpg)
 
@@ -25,10 +22,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 2 – Gregit
 
-| Cabin | [Gregit](https://www.instagram.com/hatynky/) |
-| -------- | -------- |
-| Location | Snidavka ([Google Maps](https://goo.gl/maps/fj75dY5K77cyh7vs7)) |
-| Price | 3500 UAH |
+[Intsagram](https://www.instagram.com/hatynky/) – [Google Maps](https://goo.gl/maps/fj75dY5K77cyh7vs7)
 
 ![Gregit](/images/cabins/gregit-1.jpg)
 
@@ -38,10 +32,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 3 – karpateka
 
-| Cabin | [karpateka](https://www.instagram.com/karpateka/) |
-| -------- | -------- |
-| Location | Hrebeniv ([Google Maps](https://goo.gl/maps/32hQ1Zg1aNiLRT559)) |
-| Ціна | Наразі оренда неможлива (станом на липень 2023) |
+[Intsagram](https://www.instagram.com/karpateka/) – [Google Maps](https://goo.gl/maps/32hQ1Zg1aNiLRT559)
 
 ![karpateka](/images/cabins/karpateka-1.jpg)
 
@@ -49,10 +40,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 4 – SpitzBergenHouse
 
-| Cabin | [SpitzBergenHouse](https://www.instagram.com/spitzbergenhouse/) |
-| -------- | -------- |
-| Location | Oryavchyk ([Google Maps](https://goo.gl/maps/xjSMUySVAvxVMYD9A)) |
-| Price | 3600 UAH |
+[Intsagram](https://www.instagram.com/spitzbergenhouse/) – [Google Maps](https://goo.gl/maps/xjSMUySVAvxVMYD9A)
 
 ![SpitzBergenHouse](/images/cabins/spitzbergenhouse-1.jpg)
 
@@ -60,10 +48,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 5 – Black Black House
 
-| Cabin | [Black Black House](https://www.instagram.com/black_black_house/) |
-| -------- | -------- |
-| Location | Kryvopillya ([Google Maps](https://goo.gl/maps/efUKkoxEZfXv6f5r6)) |
-| Price | 3000-6000 UAH |
+[Intsagram](https://www.instagram.com/black_black_house/) – [Google Maps](https://goo.gl/maps/efUKkoxEZfXv6f5r6)
 
 ![Black Black House](/images/cabins/blackblackhouse-1.jpg)
 
@@ -73,10 +58,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 6 – Black Rock Mountain Retreat
 
-| Cabin | [Black Rock Mountain Retreat](https://www.instagram.com/blackrock.com.ua/) |
-| -------- | -------- |
-| Location | Slavske ([Google Maps](https://goo.gl/maps/RLt5Kc7L5am3DSNXA)) |
-| Price | 4500-5000 UAH |
+[Intsagram](https://www.instagram.com/blackrock.com.ua/) – [Google Maps](https://goo.gl/maps/RLt5Kc7L5am3DSNXA)
 
 ![Black Rock Mountain Retreat](/images/cabins/blackrockmountainretreat-1.jpg)
 
@@ -86,10 +68,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 7 – TO YE HOUSE
 
-| Cabin | [TO YE HOUSE](https://www.instagram.com/toye.house/) |
-| -------- | -------- |
-| Location | Slavske ([Google Maps](https://goo.gl/maps/b5gkJPhWW9vc8UUZA)) |
-| Price | 3000-4500 UAH |
+[Intsagram](https://www.instagram.com/toye.house/) – [Google Maps](https://goo.gl/maps/b5gkJPhWW9vc8UUZA)
 
 ![TO YE HOUSE](/images/cabins/toyehouse-1.jpg)
 
@@ -97,10 +76,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 8 – Sirimiri
 
-| Cabin | [Sirimiri](https://www.instagram.com/conceptstay/) |
-| -------- | -------- |
-| Location | Yaremche ([Google Maps](https://goo.gl/maps/8cjixRUCPQkqAdr79)) |
-| Price | 7500 UAH |
+[Intsagram](https://www.instagram.com/conceptstay/) – [Google Maps](https://goo.gl/maps/8cjixRUCPQkqAdr79)
 
 ![Sirimiri](/images/cabins/sirimiri-1.jpg)
 
@@ -111,10 +87,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 ### 9 – MIKO
 
-| Cabin | [MIKO](https://www.instagram.com/blacknest42/) |
-| -------- | -------- |
-| Location | Slavske ([Google Maps](https://goo.gl/maps/juCxTcUkd4PorZJz7)) |
-| Price | 3000 UAH |
+[Intsagram](https://www.instagram.com/blacknest42/) – [Google Maps](https://goo.gl/maps/juCxTcUkd4PorZJz7)
 
 Visited in 2022. Recommended. Be prepared for a 15-minute steep climb to get to the cottage. There was no parking.
 
@@ -124,12 +97,9 @@ Visited in 2022. Recommended. Be prepared for a 15-minute steep climb to get to 
 
 ![MIKO](/images/cabins/miko-3.jpg)
 
-### 10 – Tykhyi Kutochok (Afreim)
+### 10 – Tykhyi Kutochok
 
-| Cabin | [Tykhyi Kutochok](https://www.instagram.com/tuhui_kytochok/ ) |
-| -------- | -------- |
-| Location | Izky ([Google Maps](https://goo.gl/maps/G3qfUxDwtxGuveZVA)) |
-| Price | 2700 UAH |
+[Intsagram](https://www.instagram.com/tuhui_kytochok/ ) – [Google Maps](https://goo.gl/maps/G3qfUxDwtxGuveZVA)
 
 Update: Visited in August 2023. Recommended. This is a marvellous place.
 

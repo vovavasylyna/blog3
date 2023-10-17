@@ -1,5 +1,5 @@
 ---
-title: "Why Creative People Should Be Working Like Accountants"
+title: "Why creative people should be working like accountants"
 date: 2021-05-26T09:47:44+03:00
 ---
 Some thoughts on why creative people should be working like accountants

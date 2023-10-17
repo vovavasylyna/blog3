@@ -1,5 +1,5 @@
 ---
-title: "Slow Productivity ★"
+title: "Slow productivity"
 date: 2022-01-14T09:47:44+03:00
 ---
 I’ve been an opponent of the so-called productivity hustle culture for quite some time now. The workaholism topic is clearly overestimated and often considered in a wrong way. Work must be sustainable.
@@ -14,4 +14,4 @@ No wonder I’m being skeptical when hearing of somebody working ten-twelve hour
 
 To succeed, we need fewer things to work on.
 
-[It’s Time to Embrace Slow Productivity — The New Yorker](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
+Further reading: [It’s Time to Embrace Slow Productivity — The New Yorker](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)

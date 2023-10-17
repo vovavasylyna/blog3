@@ -1,5 +1,5 @@
 ---
-title: "A Better Version of Yourself"
+title: "A better version of yourself"
 date: 2021-08-10T09:47:44+03:00
 ---
 During my endless attempts to become the best version of myself, I always made one big mistake: I constantly compared my experience with someone else’s. I tried to be better than other people in something, comparing myself with them. And here I had no chance to win, even if trying really hard, because there will always be someone in the world who will inevitably be better than you in some way.

@@ -1,5 +1,5 @@
 ---
-title: "I’ll Read It"
+title: "I’ll read it"
 date: 2023-08-27T09:47:44+03:00
 description: "Looking for a first reader? Scared to setup a blog? Post something, send it to me and I'll read it, and you'll get your first reader!"
 ---

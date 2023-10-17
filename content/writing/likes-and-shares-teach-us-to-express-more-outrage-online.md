@@ -1,5 +1,5 @@
 ---
-title: "Likes and Shares teach us to express more outrage online"
+title: "Likes and shares teach us to express more outrage online"
 date: 2021-08-16T09:47:44+03:00
 ---
 Social media encourages more emotional communication. Moderate and calm posts get less engagement than more radical posts. If you want to get more likes and reposts, you should add more emotions. It is quite intuitive and familiar to any active social media user. But the Yale researchers proved it with their [experiment](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online).
